@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-07-21 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | go (document) | [docs: fix the output format of state show command](https://github.com/hashicorp/terraform/pull/25615)
 2020-06-14 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | go | [Replace bindArgs to bindAnyArgs to support map](https://github.com/jmoiron/sqlx/pull/616)
 2020-06-12 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove not found tools and fix a link](https://github.com/avelino/awesome-go/pull/3112)
 2020-06-06 | [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) | go | [fix: Lock to write MockKubectlCmd.LastValidate to fix the race condition](https://github.com/argoproj/gitops-engine/pull/52)
 2020-06-06 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Prevent force recreate of container about some attributes](https://github.com/terraform-providers/terraform-provider-docker/pull/269)
-2020-05-28 | [mongodb/go-client-mongodb-atlas](https://github.com/mongodb/go-client-mongodb-atlas) | go | [feat: support the pagination at CloudProviderSnapshotRestoreJobsService.List](https://github.com/mongodb/go-client-mongodb-atlas/pull/97)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
