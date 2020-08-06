@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suzuki-shunsuke&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki-shunsuke" />
+</a>
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/suzuki-shunsuke.svg)](https://github.com/suzuki-shunsuke/suzuki-shunsuke)
 
 ## Recent Contribution (Pull Request)
