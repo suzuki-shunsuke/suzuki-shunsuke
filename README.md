@@ -1,4 +1,4 @@
-![suzuki-shunsuke's github stats](https://github-readme-stats.vercel.app/api?username=suzuki-shunsuke)
+![suzuki-shunsuke's github stats](https://github-readme-stats.vercel.app/api?username=suzuki-shunsuke&show_icons=true&count_private=true)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/suzuki-shunsuke.svg)](https://github.com/suzuki-shunsuke/suzuki-shunsuke)
 
