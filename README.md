@@ -1,5 +1,3 @@
-![suzuki-shunsuke's github stats](https://github-readme-stats.vercel.app/api?username=suzuki-shunsuke&show_icons=true&count_private=true)
-
 [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/suzuki-shunsuke.svg)](https://github.com/suzuki-shunsuke/suzuki-shunsuke)
 
 ## Recent Contribution (Pull Request)
@@ -22,6 +20,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2020-08-29 | [go-ci-env](https://github.com/suzuki-shunsuke/go-ci-env) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-ci-env.svg)](https://github.com/suzuki-shunsuke/go-ci-env) | go | library | get CI meta data from the environment variables
 2020-07-04 | [clap](https://github.com/suzuki-shunsuke/clap) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/clap.svg)](https://github.com/suzuki-shunsuke/clap) | go | cli | simple installer
 2020-06-04 | [go-thread-safe](https://github.com/suzuki-shunsuke/go-thread-safe) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-thread-safe.svg)](https://github.com/suzuki-shunsuke/go-thread-safe) | go | library | thread safe data types
 2020-04-29 | [terraform-provider-graylog](https://github.com/terraform-provider-graylog/terraform-provider-graylog) | [![GitHub last commit](https://img.shields.io/github/last-commit/terraform-provider-graylog/terraform-provider-graylog.svg)](https://github.com/terraform-provider-graylog/terraform-provider-graylog) | go | Terraform Provider | Terraform Provider for Graylog
