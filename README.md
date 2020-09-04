@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-09-03 | [terraform-providers/terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) | go | [Add GuardDuty filter resource](https://github.com/terraform-providers/terraform-provider-aws/pull/14876)
 2020-08-03 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Set `Computed: true` and separate files of resourceDockerContainerV1](https://github.com/terraform-providers/terraform-provider-docker/pull/272)
 2020-08-03 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Fix panic to migrate schema of docker_container from v1 to v2](https://github.com/terraform-providers/terraform-provider-docker/pull/271)
 2020-07-21 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | go (document) | [docs: fix the output format of state show command](https://github.com/hashicorp/terraform/pull/25615)
 2020-06-14 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | go | [Replace bindArgs to bindAnyArgs to support map](https://github.com/jmoiron/sqlx/pull/616)
-2020-06-12 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove not found tools and fix a link](https://github.com/avelino/awesome-go/pull/3112)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
