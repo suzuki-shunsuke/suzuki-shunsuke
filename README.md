@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-01-03 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: support max replicas of Docker Service Task Spec](https://github.com/kreuzwerker/terraform-provider-docker/pull/112)
 2020-12-30 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | typescript | [feat: support template in labels](https://github.com/renovatebot/renovate/pull/8138)
 2020-12-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [docs: add labels to arguments of docker_service](https://github.com/kreuzwerker/terraform-provider-docker/pull/105)
 2020-12-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: add force_remove option to r/image](https://github.com/kreuzwerker/terraform-provider-docker/pull/104)
 2020-12-20 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [introduce golangci-lint](https://github.com/kreuzwerker/terraform-provider-docker/pull/32)
-2020-12-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [style: format with gofumpt](https://github.com/kreuzwerker/terraform-provider-docker/pull/11)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
@@ -20,12 +20,11 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
-2021-01-03 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: support max replicas of Docker Service Task Spec](https://github.com/kreuzwerker/terraform-provider-docker/pull/112)
+2021-01-05 | [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfcmt.svg)](https://github.com/suzuki-shunsuke/tfcmt) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2021-01-01 | [tfnotify](https://github.com/suzuki-shunsuke/tfnotify) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfnotify.svg)](https://github.com/suzuki-shunsuke/tfnotify) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2020-11-03 | [circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-config-merge.svg)](https://github.com/suzuki-shunsuke/circleci-config-merge) | go | cli | Generate .circleci/config.yml by merging multiple files
 2020-11-01 | [github-ci-monitor](https://github.com/suzuki-shunsuke/github-ci-monitor) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-ci-monitor.svg)](https://github.com/suzuki-shunsuke/github-ci-monitor) | go | cli, lambda function | Monitor GitHub repositories CI statues by DataDog
 2020-10-26 | [matchfile](https://github.com/suzuki-shunsuke/matchfile) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/matchfile.svg)](https://github.com/suzuki-shunsuke/matchfile) | go | cli | check file paths are matched to the condition
-2020-10-25 | [ci-info](https://github.com/suzuki-shunsuke/ci-info) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ci-info.svg)](https://github.com/suzuki-shunsuke/ci-info) | go | cli | get CI related information
 
 [Read more](https://github.com/suzuki-shunsuke/profile#libraries)
 
