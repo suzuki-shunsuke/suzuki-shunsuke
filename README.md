@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-02-26 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go (document) | [docs: add description `Forces new resource` to rds_cluster_instance](https://github.com/hashicorp/terraform-provider-aws/pull/17059)
 2021-02-01 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [feat: validate parameters before loop](https://github.com/chaspy/github-issue-prometheus-exporter/pull/8)
 2021-01-31 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [chore(go-github): update go-github to v33](https://github.com/chaspy/github-issue-prometheus-exporter/pull/6)
 2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [docs: fix typo](https://github.com/chaspy/github-pr-prometheus-exporter/pull/11)
 2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [chore(go-github): use go-github v33](https://github.com/chaspy/github-pr-prometheus-exporter/pull/10)
-2021-01-30 | [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) | go | [style: fix typo](https://github.com/GoogleCloudPlatform/terraformer/pull/770)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
