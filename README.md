@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [chore: configure actions/stale](https://github.com/kreuzwerker/terraform-provider-docker/pull/157)
+2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [docs: format Guide of Bug report for readability](https://github.com/kreuzwerker/terraform-provider-docker/pull/159)
+2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [docs: add an example to build an image with docker_image](https://github.com/kreuzwerker/terraform-provider-docker/pull/158)
 2021-03-25 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [docs: add a guide about writing issues to CONTRIBUTING.md](https://github.com/kreuzwerker/terraform-provider-docker/pull/149)
 2021-03-18 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [ci: run acceptance tests with multiple Terraform versions](https://github.com/kreuzwerker/terraform-provider-docker/pull/129)
-2021-03-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [chore: add the guide about Terraform Configuration in Bug Report](https://github.com/kreuzwerker/terraform-provider-docker/pull/139)
-2021-02-26 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go (document) | [docs: add description `Forces new resource` to rds_cluster_instance](https://github.com/hashicorp/terraform-provider-aws/pull/17059)
-2021-02-01 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [feat: validate parameters before loop](https://github.com/chaspy/github-issue-prometheus-exporter/pull/8)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
