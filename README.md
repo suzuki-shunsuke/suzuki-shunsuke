@@ -8,11 +8,11 @@
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-04-07 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (Renovate) | [chore(renovate): update dependencies automatically by Renovate](https://github.com/kreuzwerker/terraform-provider-docker/pull/162)
 2021-04-01 | [tfsec/tfsec](https://github.com/tfsec/tfsec) | go (shell script) | [Fix publish-docs to update document](https://github.com/tfsec/tfsec/pull/675)
 2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: search local images with Docker image ID](https://github.com/kreuzwerker/terraform-provider-docker/pull/151)
 2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: set "ForceNew: true" to labelSchema](https://github.com/kreuzwerker/terraform-provider-docker/pull/152)
 2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [chore: configure actions/stale](https://github.com/kreuzwerker/terraform-provider-docker/pull/157)
-2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [docs: format Guide of Bug report for readability](https://github.com/kreuzwerker/terraform-provider-docker/pull/159)
 
 [Read more](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
