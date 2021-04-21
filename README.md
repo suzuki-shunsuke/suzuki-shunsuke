@@ -20,11 +20,11 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-04-21 | [aws-iam-cred-sender](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aws-iam-cred-sender.svg)](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | go | Lambda | AWS Lambda Function to send an initial password to a new user via Slack DM
 2021-01-31 | [tfmigrator](https://github.com/suzuki-shunsuke/tfmigrator) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfmigrator.svg)](https://github.com/suzuki-shunsuke/tfmigrator) | go | cli | migrate Terraform configuration and State
 2021-01-05 | [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfcmt.svg)](https://github.com/suzuki-shunsuke/tfcmt) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2021-01-01 | [tfnotify](https://github.com/suzuki-shunsuke/tfnotify) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfnotify.svg)](https://github.com/suzuki-shunsuke/tfnotify) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2020-11-03 | [circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-config-merge.svg)](https://github.com/suzuki-shunsuke/circleci-config-merge) | go | cli | Generate .circleci/config.yml by merging multiple files
-2020-11-01 | [github-ci-monitor](https://github.com/suzuki-shunsuke/github-ci-monitor) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-ci-monitor.svg)](https://github.com/suzuki-shunsuke/github-ci-monitor) | go | cli, lambda function | Monitor GitHub repositories CI statues by DataDog
 
 [Read more](https://github.com/suzuki-shunsuke/profile#libraries)
 
