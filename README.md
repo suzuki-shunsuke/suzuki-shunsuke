@@ -20,11 +20,11 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-08-30 | [logrus-error](https://github.com/suzuki-shunsuke/logrus-error) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/logrus-error.svg)](https://github.com/suzuki-shunsuke/logrus-error) | go | library | Embed [logrus](https://github.com/sirupsen/logrus).Fields into error
 2021-08-29 | [aqua](https://github.com/suzuki-shunsuke/aqua) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua.svg)](https://github.com/suzuki-shunsuke/aqua) | go | cli | Version manager of CLI
 2021-08-29 | [aqua-proxy](https://github.com/suzuki-shunsuke/aqua-proxy) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-proxy.svg)](https://github.com/suzuki-shunsuke/aqua-proxy) | go | cli | The internal CLI tool of [aqua](https://github.com/suzuki-shunsuke/aqua)
 2021-08-29 | [aqua-installer](https://github.com/suzuki-shunsuke/aqua-installer) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-installer.svg)](https://github.com/suzuki-shunsuke/aqua-installer) | shell script | script, GitHub Actions | Install [aqua](https://github.com/suzuki-shunsuke/aqua) quickly
 2021-08-24 | [go-checkout-github-merged-commit](https://github.com/suzuki-shunsuke/go-checkout-github-merged-commit) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-checkout-github-merged-commit.svg)](https://github.com/suzuki-shunsuke/go-checkout-github-merged-commit) | go | library | Checkout the GitHub Pull Request merged commit
-2021-07-31 | [renovate-github-tags-datasource-repositories](https://github.com/suzuki-shunsuke/renovate-github-tags-datasource-repositories) |  | | | Renovate github-tags Datasource Repositories
 
 [Read more](https://github.com/suzuki-shunsuke/profile#libraries)
 
