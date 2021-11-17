@@ -72,10 +72,10 @@ I have written many blog posts to share our knowledge.
 
 date | title
 --- | ---
-2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://quipper.hatenablog.com/entry/2021/10/13/080000)
-2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://quipper.hatenablog.com/entry/2021/08/11/080000)
-2021-08-02 | [AWS IAM の管理を miam から Terraform に移行した話](https://quipper.hatenablog.com/entry/2021/08/02/080000)
-2021-06-08 | [AWS - GCP の ID 連携を使い、 AWS CodeBuild で Terraform を使って GCP を管理](https://quipper.hatenablog.com/entry/2021/06/08/080000)
-2021-04-01 | [Terraform リポジトリをマージして CI/CD を改善した話](https://quipper.hatenablog.com/entry/2021/04/01/080000)
+2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://blog.studysapuri.jp/entry/2021/10/13/080000)
+2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://blog.studysapuri.jp/entry/2021/08/11/080000)
+2021-08-02 | [AWS IAM の管理を miam から Terraform に移行した話](https://blog.studysapuri.jp/entry/2021/08/02/080000)
+2021-06-08 | [AWS - GCP の ID 連携を使い、 AWS CodeBuild で Terraform を使って GCP を管理](https://blog.studysapuri.jp/entry/2021/06/08/080000)
+2021-04-01 | [Terraform リポジトリをマージして CI/CD を改善した話](https://blog.studysapuri.jp/entry/2021/04/01/080000)
 
 [Full list of blogs](https://github.com/suzuki-shunsuke/profile#blog)
