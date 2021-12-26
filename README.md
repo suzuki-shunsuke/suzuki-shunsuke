@@ -67,8 +67,12 @@ I have developed various OSS. [Full List](https://github.com/suzuki-shunsuke/pro
 
 I have written many blog posts to share our knowledge.
 
-* https://techblog.szksh.cloud
-* https://dev.to/suzukishunsuke
+* English
+  * [dev.to](https://dev.to/suzukishunsuke)
+  * [Medium](https://medium.com/@suzuki.shunsuke.1989)
+* Japanese
+  * https://techblog.szksh.cloud
+  * https://zenn.dev/shunsuke_suzuki
 
 date | title
 --- | ---
