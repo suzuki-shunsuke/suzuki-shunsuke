@@ -58,6 +58,7 @@ I have developed various OSS. [Full List](https://github.com/suzuki-shunsuke/pro
 * [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Version is switched seamlessly
 * [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 * [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
+* [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 * [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 * [flute](https://github.com/suzuki-shunsuke/flute) - Go HTTP client testing framework
 * [cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task Runner
