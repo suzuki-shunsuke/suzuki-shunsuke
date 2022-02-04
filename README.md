@@ -57,8 +57,8 @@ I have developed various OSS. [Full List](https://github.com/suzuki-shunsuke/pro
 * [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 * [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Version is switched seamlessly
 * [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
-* [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
 * [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+* [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
 * [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 * [flute](https://github.com/suzuki-shunsuke/flute) - Go HTTP client testing framework
 * [cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task Runner
@@ -77,10 +77,10 @@ I have written many blog posts to share our knowledge.
 
 date | title
 --- | ---
+2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 2022-01-12 | [AWS SSO を導入してセキュリティと利便性を改善した話](https://blog.studysapuri.jp/entry/2022/01/12/080000)
 2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://blog.studysapuri.jp/entry/2021/10/13/080000)
 2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://blog.studysapuri.jp/entry/2021/08/11/080000)
 2021-08-02 | [AWS IAM の管理を miam から Terraform に移行した話](https://blog.studysapuri.jp/entry/2021/08/02/080000)
-2021-06-08 | [AWS - GCP の ID 連携を使い、 AWS CodeBuild で Terraform を使って GCP を管理](https://blog.studysapuri.jp/entry/2021/06/08/080000)
 
 [Full list of blogs](https://github.com/suzuki-shunsuke/profile#blog)
