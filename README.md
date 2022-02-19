@@ -77,10 +77,10 @@ I have written many blog posts to share our knowledge.
 
 date | title
 --- | ---
+2022-02-18 | [Renovate の大量の Pull Request を処理する技術](https://blog.studysapuri.jp/entry/2022/02/18/080000)
 2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 2022-01-12 | [AWS SSO を導入してセキュリティと利便性を改善した話](https://blog.studysapuri.jp/entry/2022/01/12/080000)
 2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://blog.studysapuri.jp/entry/2021/10/13/080000)
 2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://blog.studysapuri.jp/entry/2021/08/11/080000)
-2021-08-02 | [AWS IAM の管理を miam から Terraform に移行した話](https://blog.studysapuri.jp/entry/2021/08/02/080000)
 
 [Full list of blogs](https://github.com/suzuki-shunsuke/profile#blog)
