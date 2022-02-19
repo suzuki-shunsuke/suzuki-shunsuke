@@ -56,8 +56,8 @@ I have developed various OSS. [Full List](https://github.com/suzuki-shunsuke/pro
 
 * [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 * [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Version is switched seamlessly
-* [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 * [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+* [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 * [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
 * [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 * [flute](https://github.com/suzuki-shunsuke/flute) - Go HTTP client testing framework
