@@ -15,15 +15,7 @@ I'm SRE and tool maker and OSS contributor. I love Go. Please see [profile](http
 
 ## Career
 
-I have improved CI/CD Pipeline and Developer Experience.
-I can find the problem and design the solution and implement it autonomously.
-
-date | company | role
---- | --- | ---
-2021-10 / today | [Recruit](https://www.recruit.co.jp/) | SRE
-2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE
-2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer
-2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer
+https://github.com/suzuki-shunsuke/resume
 
 ## Presentation
 
