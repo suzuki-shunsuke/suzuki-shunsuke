@@ -1,4 +1,4 @@
-I'm SRE and tool maker and OSS contributor. I love Go. Please see [profile](https://github.com/suzuki-shunsuke/profile) too.
+I'm SRE and tool maker and OSS contributor. I love Go. Please see [profile](https://suzuki-shunsuke.github.io/profile/) too.
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ I'm SRE and tool maker and OSS contributor. I love Go. Please see [profile](http
 
 https://github.com/suzuki-shunsuke/resume
 
-## Presentation
+## Speaking
 
 date | event | style | presentation title
 --- | --- | --- | ---
@@ -33,7 +33,7 @@ date | repository
 
 ## Major OSS Contribution
 
-I have contributed various OSS. [Full List](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
+I have contributed various OSS. [Full List](https://suzuki-shunsuke.github.io/profile/oss-contribution)
 
 * [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws)
 * [slack-go](https://github.com/slack-go/slack)
@@ -44,7 +44,7 @@ I have contributed various OSS. [Full List](https://github.com/suzuki-shunsuke/p
 
 ## OSS Development
 
-I have developed various OSS. [Full List](https://github.com/suzuki-shunsuke/profile#my-tools)
+I have developed various OSS. [Full List](https://suzuki-shunsuke.github.io/profile/oss-development)
 
 * [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 * [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Version is switched seamlessly
@@ -64,15 +64,15 @@ I have written many blog posts to share our knowledge.
   * [dev.to](https://dev.to/suzukishunsuke)
   * [Medium](https://medium.com/@suzuki.shunsuke.1989)
 * Japanese
-  * https://techblog.szksh.cloud
   * https://zenn.dev/shunsuke_suzuki
+  * https://techblog.szksh.cloud
 
 date | title
 --- | ---
+2022-02-25 | [Migrate Terraform CI from AWS CodeBuild to GitHub Actions](https://devs.quipper.com/2022/02/25/terraform-github-actions.html)
 2022-02-18 | [Renovate の大量の Pull Request を処理する技術](https://blog.studysapuri.jp/entry/2022/02/18/080000)
 2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 2022-01-12 | [AWS SSO を導入してセキュリティと利便性を改善した話](https://blog.studysapuri.jp/entry/2022/01/12/080000)
 2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://blog.studysapuri.jp/entry/2021/10/13/080000)
-2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://blog.studysapuri.jp/entry/2021/08/11/080000)
 
-[Full list of blogs](https://github.com/suzuki-shunsuke/profile#blog)
+[Full list of blogs](https://suzuki-shunsuke.github.io/profile/blog)
