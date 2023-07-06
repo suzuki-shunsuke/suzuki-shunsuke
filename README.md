@@ -1,4 +1,4 @@
-I'm SRE and tool maker and OSS contributor. I love Go. Please see [profile](https://suzuki-shunsuke.github.io/profile/) too.
+I'm Platform Engineer and tool maker and OSS contributor. I love Go. Please see [profile](https://suzuki-shunsuke.github.io/profile/) too.
 
 ## Tech Stack
 
@@ -46,11 +46,11 @@ I have contributed various OSS. [Full List](https://suzuki-shunsuke.github.io/pr
 
 I have developed various OSS. [Full List](https://suzuki-shunsuke.github.io/profile/oss-development)
 
-* [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 * [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Version is switched seamlessly
+* [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 * [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
-* [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 * [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
+* [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 * [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 * [flute](https://github.com/suzuki-shunsuke/flute) - Go HTTP client testing framework
 * [cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task Runner
