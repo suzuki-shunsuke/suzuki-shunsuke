@@ -3,7 +3,7 @@ I'm a Platform Engineer, tool maker, and OSS contributor. I love Go. Please see 
 ## Tech Stack
 
 * Go, Shell Script
-* AWS, GCP
+* AWS, Google Cloud
 * GitHub Actions, CircleCI, AWS CodeBuild, Google Cloud Build, Drone
 * k8s
 * Terraform
