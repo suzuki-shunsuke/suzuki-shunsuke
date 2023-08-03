@@ -1,10 +1,10 @@
-I'm Platform Engineer and tool maker and OSS contributor. I love Go. Please see [profile](https://suzuki-shunsuke.github.io/profile/) too.
+I'm a Platform Engineer, tool maker, and OSS contributor. I love Go. Please see [profile](https://suzuki-shunsuke.github.io/profile/) too.
 
 ## Tech Stack
 
 * Go, Shell Script
-* AWS
-* GitHub Actions, CircleCI, AWS CodeBuild, Drone
+* AWS, GCP
+* GitHub Actions, CircleCI, AWS CodeBuild, Google Cloud Build, Drone
 * k8s
 * Terraform
 * Ansible
@@ -13,9 +13,13 @@ I'm Platform Engineer and tool maker and OSS contributor. I love Go. Please see 
 * DataDog
 * etc
 
-## Career
+## Resume
 
 https://github.com/suzuki-shunsuke/resume
+
+## For Recruiters
+
+https://suzuki-shunsuke.github.io/profile/for-recruiter
 
 ## Speaking
 
