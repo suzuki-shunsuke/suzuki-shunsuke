@@ -17,10 +17,6 @@ I'm a Platform Engineer, tool maker, and OSS contributor. I love Go. Please see 
 
 https://github.com/suzuki-shunsuke/resume
 
-## For Recruiters
-
-https://suzuki-shunsuke.github.io/profile/for-recruiter
-
 ## Speaking
 
 date | event | style | presentation title
