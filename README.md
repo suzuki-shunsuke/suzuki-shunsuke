@@ -17,6 +17,7 @@ I've published a lot of blog posts to share my knowledge and work.
 
 date | event | style | presentation title
 --- | --- | --- | ---
+2024-06-07 | [Lint Night #3](https://lintnight.connpass.com/event/319202/) | Talk (15 min) | [lintnet - General purpose linter powered by Jsonnet](https://speakerdeck.com/szksh/lintnet-general-purpose-linter-powered-by-jsonnet)
 2024-03-26 | [CI/CD Test Night #7](https://testnight.connpass.com/event/311263/) | Talk (20 min) | [CI/CD のセキュリティや Developer Experience を改善するツールやプラクティス](https://docs.google.com/presentation/d/1rN4kTtvErrheZ3SXNr49XUHbiGIoorpfiLGXjLt5vsc/edit?usp=sharing)
 2021-09-30 | [HashiTalks Japan 2021](https://events.hashicorp.com/hashitalksjapan) ([youtube](https://www.youtube.com/watch?v=Cl9S-uzkuLc)) | Talk (30 min) | [Terraform Platform in Quipper](https://speakerdeck.com/szksh/terraform-platform-in-quipper) ([youtube](https://www.youtube.com/watch?v=KpYwcwxnzbY))
 2021-07-07 | [Open Policy Agent Rego Knowledge Sharing Meetup](https://mercari.connpass.com/event/211073/) ([youtube](https://youtu.be/0YpJhrz6L0A)) | LT (5min) | [Quipper における Rego の活用事例](https://gist.github.com/suzuki-shunsuke/9372337aa62a6f8394bb136582ec068e) ([youtube](https://youtu.be/0YpJhrz6L0A?t=870))
@@ -45,11 +46,12 @@ I have developed various OSS. [Full List](https://suzuki-shunsuke.github.io/prof
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - Fork of mercari/tfnotify. tfcmt enhances tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [github-comment](https://github.com/suzuki-shunsuke/github-comment) - CLI to post and hide GitHub Pull Request Comments with YAML configuration file
+- [lintnet](https://lintnet.github.io/) - General purpose linter for structured configuration data powered by Jsonnet
+- [pinact](https://github.com/suzuki-shunsuke/pinact) - Pin GitHub Actions versions
+- [ghalint](https://github.com/suzuki-shunsuke/ghalint) - GitHub Actions Linter
+- [tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed. You can define the allow list of Terraform Providers and their versions, and check if disallowed providers aren't used
 - [Graylog API client for Go and terraform provider for Graylog](https://github.com/suzuki-shunsuke/go-graylog)
 - [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
-- [pinact](https://github.com/suzuki-shunsuke/pinact) - Pin GitHub Actions versions
-- [tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed. You can define the allow list of Terraform Providers and their versions, and check if disallowed providers aren't used
-- [ghalint](https://github.com/suzuki-shunsuke/ghalint) - GitHub Actions Linter
 - [flute](https://github.com/suzuki-shunsuke/flute) - Go HTTP client testing framework
 - [cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task Runner
 - [ci-info](https://github.com/suzuki-shunsuke/ci-info) - CLI tool to get CI related information
